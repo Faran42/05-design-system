@@ -4,8 +4,3 @@
     "packages/*"
   ]
 }
-  // "prettier": {
-  //   "singleQuote": true,
-  //   "trailingComma": "all",
-  //   "semi": false
-  // }
